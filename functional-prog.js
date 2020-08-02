@@ -157,11 +157,3 @@ const totalAge = persons.reduce((age,person) => { //argument ตัวแรก�
 
 // const totalAge = persons.reduce((age,person) => age + person.age ,0); 
 
-
-
-
-
-//EP.3 
-//forEach
-//find, findIndex
-//every, some
